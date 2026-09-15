@@ -10,5 +10,5 @@ During my time at CFCS, I was advised by Prof. Yizhou Wang. My previous research
 
 **Links**
 - [CFCS alumni](https://cfcs.pku.edu.cn/english/people/alumni/index.htm) · [GitHub](https://github.com/wzj52501)
-- [Zhihu](https://www.zhihu.com/people/wang-zi-jian-2-32) · [Xiaohongshu](https://www.xiaohongshu.com/user/profile/6027975500000000010059d0) · [Bilibili](https://space.bilibili.com/359300636)
+- [Zhihu](https://www.zhihu.com/people/wang-zi-jian-2-32) · [Xiaohongshu](https://www.xiaohongshu.com/user/profile/6027975500000000010059d0) · [Bilibili](https://space.bilibili.com/359300636) · [X](https://x.com/wzj52501)
 - Email: `wzj52501@pku.edu.cn`
